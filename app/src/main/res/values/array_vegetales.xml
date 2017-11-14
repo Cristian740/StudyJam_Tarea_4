@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="veg">
+        <item>Asparagus</item>
+        <item>Broccoli</item>
+        <item>Cabbage</item>
+        <item>Carrots</item>
+        <item>Cauliflower</item>
+        <item>Chili peppers</item>
+        <item>Corn</item>
+        <item>Cucumber</item>
+        <item>Egg plant</item>
+        <item>Garlic</item>
+        <item>Green pepper</item>
+        <item>Lettuce</item>
+        <item>Mushroom</item>
+        <item>Olives</item>
+        <item>Onion</item>
+        <item>Peanuts</item>
+        <item>Peas</item>
+        <item>Potato</item>
+        <item>Pumpkin</item>
+        <item>Radishes</item>
+        <item>Tomato</item>
+        <item>Turnip</item>
+    </string-array>
+
+    <string-array name="veg_esp">
+        <item>Esparragos</item>
+        <item>Brocoli</item>
+        <item>Repollo</item>
+        <item>Zanahoria</item>
+        <item>Coliflor</item>
+        <item>Ajis picantes</item>
+        <item>Maiz</item>
+        <item>Pepino</item>
+        <item>Berenjena</item>
+        <item>Ajo</item>
+        <item>Pimento verde</item>
+        <item>Lechuga</item>
+        <item>Hongo</item>
+        <item>Aceituna</item>
+        <item>Cebolla</item>
+        <item>Mani</item>
+        <item>Guisantes</item>
+        <item>Papa</item>
+        <item>Calabaza</item>
+        <item>Rabano</item>
+        <item>Tomate</item>
+        <item>Nabo</item>
+    </string-array>
+
+    <array name="veg_dibujo">
+        <item>@drawable/veg_asparagus</item>
+        <item>@drawable/veg_broccoli</item>
+        <item>@drawable/veg_cabbage</item>
+        <item>@drawable/veg_carrots</item>
+        <item>@drawable/veg_cauliflower</item>
+        <item>@drawable/veg_chili_peppers</item>
+        <item>@drawable/veg_corn</item>
+        <item>@drawable/veg_cucumber</item>
+        <item>@drawable/veg_egg_plant</item>
+        <item>@drawable/veg_garlic</item>
+        <item>@drawable/veg_green_pepper</item>
+        <item>@drawable/veg_lettuce</item>
+        <item>@drawable/veg_mushroom</item>
+        <item>@drawable/veg_olives</item>
+        <item>@drawable/veg_onion</item>
+        <item>@drawable/veg_peanuts</item>
+        <item>@drawable/veg_peas</item>
+        <item>@drawable/veg_potato</item>
+        <item>@drawable/veg_pumpkin</item>
+        <item>@drawable/veg_radishes</item>
+        <item>@drawable/veg_tomato</item>
+        <item>@drawable/veg_turnip</item>
+    </array>
+</resources>

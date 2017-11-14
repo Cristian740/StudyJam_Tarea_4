@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+
+    >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/espacio"
+        android:layout_marginLeft="@dimen/margen_peq"
+        android:layout_marginRight="@dimen/margen_peq"
+        >
+        <ImageButton
+            android:id="@+id/boton_parlante"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/speaker"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/margen_gran"
+            />
+
+        <EditText
+            android:id="@+id/texto_hablante"
+            android:layout_below="@+id/boton_parlante"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/titulo_card"
+            android:background="@color/white"
+            android:padding="@dimen/margen_muypeq"
+            android:hint="@string/mensaje"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

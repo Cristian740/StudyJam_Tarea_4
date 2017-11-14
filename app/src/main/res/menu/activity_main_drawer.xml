@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Grammar">
+        <menu>
+            <item
+                android:id="@+id/list_adjetives"
+                android:icon="@drawable/ic_menu_send"
+                android:title="List Adjetives" />
+            <item
+                android:id="@+id/list_irregular_verbs"
+                android:icon="@drawable/ic_menu_send"
+                android:title="List Verbs" />
+            <item
+                android:id="@+id/list_tenses"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Tenses" />
+        </menu>
+
+    </item>
+    <item android:title="Listening">
+        <menu>
+            <item
+                android:id="@+id/menu_songs"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Songs" />
+        </menu>
+    </item>
+    <item android:title="Speaking">
+        <menu>
+            <item
+                android:id="@+id/menu_speaking"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Speaking" />
+        </menu>
+    </item>
+    <item android:title="Vocabulary">
+        <menu>
+            <item
+                android:id="@+id/menu_adjetives"
+                android:icon="@drawable/ic_collections"
+                android:title="Adjetives" />
+            <item
+                android:id="@+id/menu_animals"
+                android:icon="@drawable/ic_collections"
+                android:title="Animals" />
+            <item
+                android:id="@+id/menu_drinks"
+                android:icon="@drawable/ic_collections"
+                android:title="Drinks" />
+            <item
+                android:id="@+id/menu_weather"
+                android:icon="@drawable/ic_collections"
+                android:title="Weather" />
+            <item
+                android:id="@+id/menu_food"
+                android:icon="@drawable/ic_collections"
+                android:title="Food" />
+            <item
+                android:id="@+id/menu_fruits"
+                android:icon="@drawable/ic_collections"
+                android:title="Fruits" />
+            <item
+                android:id="@+id/menu_clothes"
+                android:icon="@drawable/ic_collections"
+                android:title="Clothes" />
+            <item
+                android:id="@+id/menu_feelings"
+                android:icon="@drawable/ic_collections"
+                android:title="Feelings" />
+            <item
+                android:id="@+id/menu_vegetables"
+                android:icon="@drawable/ic_collections"
+                android:title="Vegetables" />
+            <item
+                android:id="@+id/menu_verbs"
+                android:icon="@drawable/ic_collections"
+                android:title="Verbs" />
+        </menu>
+    </item>
+    <item android:title="More information">
+        <menu>
+            <item
+                android:id="@+id/inf_about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About" />
+            <item
+                android:id="@+id/inf_support"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Support" />
+        </menu>
+
+    </item>
+</menu>

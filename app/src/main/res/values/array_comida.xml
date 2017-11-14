@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comida">
+        <item>Bacon and  eggs</item>
+        <item>Bread</item>
+        <item>Cereal</item>
+        <item>Cheese</item>
+        <item>Fish</item>
+        <item>French fries</item>
+        <item>Fried chicken</item>
+        <item>Hamburguer</item>
+        <item>Hot dog</item>
+        <item>Pizza</item>
+        <item>Rice</item>
+        <item>Salad</item>
+        <item>Sandwich</item>
+        <item>Soup</item>
+        <item>Spaghetti</item>
+        <item>Steak</item>
+    </string-array>
+
+    <string-array name="comida_esp">
+        <item>Bacon y huevos</item>
+        <item>Pan</item>
+        <item>Cereal</item>
+        <item>Queso</item>
+        <item>Pescado</item>
+        <item>Papas fritas</item>
+        <item>Pollo frito</item>
+        <item>Hamburguesa</item>
+        <item>Perro caliente</item>
+        <item>Pizza</item>
+        <item>Arroz</item>
+        <item>Ensalada</item>
+        <item>Sandwich</item>
+        <item>Sopa</item>
+        <item>Espaguetis</item>
+        <item>Filete</item>
+    </string-array>
+
+    <array name="comida_dibujo">
+        <item>@drawable/comida_bacon_eggs</item>
+        <item>@drawable/comida_bread</item>
+        <item>@drawable/comida_cereal</item>
+        <item>@drawable/comida_cheese</item>
+        <item>@drawable/comida_fish</item>
+        <item>@drawable/comida_french_fries</item>
+        <item>@drawable/comida_fried_chicken</item>
+        <item>@drawable/comida_hamburguer</item>
+        <item>@drawable/comida_hotdog</item>
+        <item>@drawable/comida_pizza</item>
+        <item>@drawable/comida_rice</item>
+        <item>@drawable/comida_salad</item>
+        <item>@drawable/comida_sandwich</item>
+        <item>@drawable/comida_soup</item>
+        <item>@drawable/comida_spaghetti</item>
+        <item>@drawable/comida_steak</item>
+
+    </array>
+</resources>

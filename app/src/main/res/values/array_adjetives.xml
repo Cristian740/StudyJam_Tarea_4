@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adjetive_base">
+        <item>angry</item>
+        <item>bad</item>
+        <item>big</item>
+        <item>bitter</item>
+        <item>black</item>
+        <item>bland</item>
+        <item>bloody</item>
+        <item>blue</item>
+        <item>bold</item>
+        <item>bossy</item>
+        <item>brave</item>
+        <item>brief</item>
+        <item>bright</item>
+        <item>broad</item>
+        <item>busy</item>
+        <item>calm</item>
+        <item>cheap</item>
+        <item>chewy</item>
+        <item>chubby</item>
+        <item>classy</item>
+        <item>clean</item>
+        <item>clear</item>
+        <item>clever</item>
+        <item>close</item>
+        <item>cloudy</item>
+        <item>clumsy</item>
+        <item>coarse</item>
+        <item>cold</item>
+        <item>cool</item>
+        <item>crazy</item>
+        <item>creamy</item>
+        <item>creepy</item>
+        <item>crispy</item>
+        <item>cruel</item>
+        <item>crunchy</item>
+        <item>curly</item>
+        <item>curvy</item>
+        <item>cute</item>
+        <item>damp</item>
+        <item>dark</item>
+        <item>deadly</item>
+        <item>deep</item>
+        <item>dense</item>
+        <item>dirty</item>
+        <item>dry</item>
+        <item>dull</item>
+        <item>dumb</item>
+        <item>dusty</item>
+        <item>early</item>
+        <item>easy</item>
+        <item>faint</item>
+        <item>fair</item>
+        <item>fancy</item>
+        <item>far</item>
+        <item>fast</item>
+        <item>fat</item>
+        <item>few</item>
+        <item>fierce</item>
+        <item>filthy</item>
+        <item>fine</item>
+        <item>firm</item>
+        <item>fit</item>
+        <item>flaky</item>
+        <item>flat</item>
+        <item>fresh</item>
+        <item>friendly</item>
+        <item>full</item>
+        <item>funny</item>
+        <item>gentle</item>
+        <item>gloomy</item>
+        <item>good</item>
+        <item>grand</item>
+        <item>grave</item>
+        <item>greasy</item>
+        <item>great</item>
+        <item>greedy</item>
+        <item>gross</item>
+        <item>guilty</item>
+        <item>hairy</item>
+        <item>handy</item>
+        <item>happy</item>
+        <item>hard</item>
+        <item>harsh</item>
+        <item>healthy</item>
+        <item>heavy</item>
+        <item>high</item>
+        <item>hip</item>
+        <item>hot</item>
+        <item>humble</item>
+        <item>hungry</item>
+        <item>icy</item>
+        <item>itchy</item>
+        <item>juicy</item>
+        <item>kind</item>
+        <item>large</item>
+        <item>late</item>
+        <item>lazy</item>
+        <item>light</item>
+        <item>likely</item>
+        <item>little</item>
+        <item>lively</item>
+        <item>lonely</item>
+        <item>long</item>
+        <item>loud</item>
+        <item>lovely</item>
+        <item>low</item>
+        <item>mad</item>
+        <item>mean</item>
+        <item>messy</item>
+        <item>mild</item>
+        <item>moist</item>
+        <item>narrow</item>
+        <item>nasty</item>
+        <item>naughty</item>
+        <item>near</item>
+        <item>neat</item>
+        <item>needy</item>
+        <item>new</item>
+        <item>nice</item>
+        <item>noisy</item>
+        <item>odd</item>
+        <item>oily</item>
+        <item>old</item>
+        <item>plain</item>
+        <item>polite</item>
+        <item>poor</item>
+        <item>pretty</item>
+        <item>proud</item>
+        <item>pure</item>
+        <item>quick</item>
+        <item>quiet</item>
+        <item>rare</item>
+        <item>raw</item>
+        <item>rich</item>
+        <item>ripe</item>
+        <item>risky</item>
+        <item>roomy</item>
+        <item>rough</item>
+        <item>rude</item>
+        <item>rusty</item>
+        <item>sad</item>
+        <item>safe</item>
+        <item>salty</item>
+        <item>sane</item>
+        <item>scary</item>
+        <item>shallow</item>
+        <item>sharp</item>
+        <item>shiny</item>
+        <item>short</item>
+        <item>shy</item>
+        <item>silly</item>
+        <item>simple</item>
+        <item>sincere</item>
+        <item>skinny</item>
+        <item>sleepy</item>
+        <item>slim</item>
+        <item>slimy</item>
+        <item>slow</item>
+        <item>small</item>
+        <item>smart</item>
+        <item>smelly</item>
+        <item>smoky</item>
+        <item>smooth</item>
+        <item>soft</item>
+        <item>soon</item>
+        <item>sore</item>
+        <item>sorry</item>
+        <item>sour</item>
+        <item>spicy</item>
+        <item>steep</item>
+        <item>stingy</item>
+        <item>strange</item>
+        <item>strict</item>
+        <item>strong</item>
+        <item>sunny</item>
+        <item>sweaty</item>
+        <item>sweet</item>
+        <item>tall</item>
+        <item>tan</item>
+        <item>tasty</item>
+        <item>thick</item>
+        <item>thin</item>
+        <item>thirsty</item>
+        <item>tiny</item>
+        <item>tough</item>
+        <item>true</item>
+        <item>ugly</item>
+        <item>warm</item>
+        <item>weak</item>
+        <item>wealthy</item>
+        <item>weird</item>
+        <item>wet</item>
+        <item>wide</item>
+        <item>wild</item>
+        <item>windy</item>
+        <item>wise</item>
+        <item>worldly</item>
+        <item>worthy</item>
+        <item>young</item>
+    </string-array>
+
+    <string-array name="adjetive_comparative">
+        <item>angrier</item>
+        <item>worse</item>
+        <item>bigger</item>
+        <item>bitterer</item>
+        <item>blacker</item>
+        <item>blander</item>
+        <item>bloodier</item>
+        <item>bluer</item>
+        <item>bolder</item>
+        <item>bossier</item>
+        <item>braver</item>
+        <item>briefer</item>
+        <item>brighter</item>
+        <item>broader</item>
+        <item>busier</item>
+        <item>calmer</item>
+        <item>cheap</item>
+        <item>chewier</item>
+        <item>chubbier</item>
+        <item>classier</item>
+        <item>cleaner</item>
+        <item>clear</item>
+        <item>cleverer</item>
+        <item>closer</item>
+        <item>cloudier</item>
+        <item>clumsier</item>
+        <item>coarser</item>
+        <item>colder</item>
+        <item>cooler</item>
+        <item>crazier</item>
+        <item>creamier</item>
+        <item>creepier</item>
+        <item>crispier</item>
+        <item>crueler</item>
+        <item>crunchier</item>
+        <item>curly</item>
+        <item>curvier</item>
+        <item>cuter</item>
+        <item>damper</item>
+        <item>darker</item>
+        <item>deadlier</item>
+        <item>deeper</item>
+        <item>denser</item>
+        <item>dirtier</item>
+        <item>drier</item>
+        <item>duller</item>
+        <item>dumber</item>
+        <item>dustier</item>
+        <item>earlier</item>
+        <item>easier</item>
+        <item>fainter</item>
+        <item>fairer</item>
+        <item>fancier</item>
+        <item>further/farther</item>
+        <item>faster</item>
+        <item>fatter</item>
+        <item>fewer</item>
+        <item>fiercer</item>
+        <item>filthier</item>
+        <item>finer</item>
+        <item>firmer</item>
+        <item>fitter</item>
+        <item>flakier</item>
+        <item>flatter</item>
+        <item>fresher</item>
+        <item>friendlier</item>
+        <item>fuller</item>
+        <item>funnier</item>
+        <item>gentler</item>
+        <item>gloomier</item>
+        <item>better</item>
+        <item>grander</item>
+        <item>graver</item>
+        <item>greasier</item>
+        <item>greater</item>
+        <item>greedier</item>
+        <item>grosser</item>
+        <item>guilter</item>
+        <item>hairier</item>
+        <item>handier</item>
+        <item>happier</item>
+        <item>harder</item>
+        <item>harsher</item>
+        <item>healthier</item>
+        <item>heavier</item>
+        <item>higher</item>
+        <item>hipper</item>
+        <item>hotter</item>
+        <item>humbler</item>
+        <item>hungrier</item>
+        <item>icier</item>
+        <item>itchier</item>
+        <item>juicier</item>
+        <item>kinder</item>
+        <item>larger</item>
+        <item>later</item>
+        <item>lazier</item>
+        <item>lighter</item>
+        <item>likelier</item>
+        <item>littler</item>
+        <item>livelier</item>
+        <item>lonlier</item>
+        <item>longer</item>
+        <item>louder</item>
+        <item>lovelier</item>
+        <item>lower</item>
+        <item>madder</item>
+        <item>meaner</item>
+        <item>messier</item>
+        <item>milder</item>
+        <item>moister</item>
+        <item>narrower</item>
+        <item>nastier</item>
+        <item>naughtier</item>
+        <item>nearer</item>
+        <item>neater</item>
+        <item>needier</item>
+        <item>newer</item>
+        <item>nicer</item>
+        <item>noisier</item>
+        <item>odder</item>
+        <item>oilier</item>
+        <item>older/elder</item>
+        <item>plainer</item>
+        <item>politer</item>
+        <item>poorer</item>
+        <item>prettier</item>
+        <item>prouder</item>
+        <item>purer</item>
+        <item>quicker</item>
+        <item>quieter</item>
+        <item>rarer</item>
+        <item>rawer</item>
+        <item>richer</item>
+        <item>riper</item>
+        <item>riskier</item>
+        <item>roomier</item>
+        <item>rougher</item>
+        <item>ruder</item>
+        <item>rustier</item>
+        <item>sadder</item>
+        <item>safer</item>
+        <item>saltier</item>
+        <item>saner</item>
+        <item>scarier</item>
+        <item>shallower</item>
+        <item>sharper</item>
+        <item>shinier</item>
+        <item>shorter</item>
+        <item>shyer</item>
+        <item>sillier</item>
+        <item>simpler</item>
+        <item>sincerer</item>
+        <item>skinnier</item>
+        <item>sleepier</item>
+        <item>slimmer</item>
+        <item>slimier</item>
+        <item>slower</item>
+        <item>smaller</item>
+        <item>smarter</item>
+        <item>smellier</item>
+        <item>smokier</item>
+        <item>smoother</item>
+        <item>softer</item>
+        <item>sooner</item>
+        <item>sorer</item>
+        <item>sorrier</item>
+        <item>sourer</item>
+        <item>spicier</item>
+        <item>steeper</item>
+        <item>stingier</item>
+        <item>stranger</item>
+        <item>stricter</item>
+        <item>stronger</item>
+        <item>sunnier</item>
+        <item>sweatier</item>
+        <item>sweeter</item>
+        <item>taller</item>
+        <item>tanner</item>
+        <item>tastier</item>
+        <item>thicker</item>
+        <item>thinner</item>
+        <item>thirstier</item>
+        <item>tinier</item>
+        <item>tougher</item>
+        <item>truer</item>
+        <item>uglier</item>
+        <item>warmer</item>
+        <item>weaker</item>
+        <item>wealthier</item>
+        <item>weirder</item>
+        <item>wetter</item>
+        <item>wider</item>
+        <item>wilder</item>
+        <item>windier</item>
+        <item>wiser</item>
+        <item>worldlier</item>
+        <item>worthier</item>
+        <item>younger</item>
+    </string-array>
+
+    <string-array name="adjetive_superlative">
+        <item>angriest</item>
+        <item>worst</item>
+        <item>biggest</item>
+        <item>bitterest</item>
+        <item>blackest</item>
+        <item>blandest</item>
+        <item>bloodiest</item>
+        <item>bluest</item>
+        <item>boldest</item>
+        <item>bossiest</item>
+        <item>bravest</item>
+        <item>briefest</item>
+        <item>brightest</item>
+        <item>broadest</item>
+        <item>busiest</item>
+        <item>calmest</item>
+        <item>cheaper</item>
+        <item>chewiest</item>
+        <item>chubbiest</item>
+        <item>classiest</item>
+        <item>cleanest</item>
+        <item>clearest</item>
+        <item>cleverest</item>
+        <item>closest</item>
+        <item>cloudiest</item>
+        <item>clumsiest</item>
+        <item>coarsest</item>
+        <item>coldest</item>
+        <item>coolest</item>
+        <item>craziest</item>
+        <item>creamiest</item>
+        <item>creepiest</item>
+        <item>crispiest</item>
+        <item>cruelest</item>
+        <item>crunchiest</item>
+        <item>curliest</item>
+        <item>curviest</item>
+        <item>cutest</item>
+        <item>dampest</item>
+        <item>darkest</item>
+        <item>deadliest</item>
+        <item>deepest</item>
+        <item>densest</item>
+        <item>dirtiest</item>
+        <item>driest</item>
+        <item>dullest</item>
+        <item>dumbest</item>
+        <item>dustiest</item>
+        <item>earliest</item>
+        <item>easiest</item>
+        <item>faintest</item>
+        <item>fairest</item>
+        <item>fanciest</item>
+        <item>furthest/farthest</item>
+        <item>fastest</item>
+        <item>fattest</item>
+        <item>fewest</item>
+        <item>fiercest</item>
+        <item>filthiest</item>
+        <item>finest</item>
+        <item>firmest</item>
+        <item>fittest</item>
+        <item>flakiest</item>
+        <item>flattest</item>
+        <item>freshest</item>
+        <item>friendliest</item>
+        <item>fullest</item>
+        <item>funniest</item>
+        <item>gentlest</item>
+        <item>gloomiest</item>
+        <item>best</item>
+        <item>grandest</item>
+        <item>gravest</item>
+        <item>greasiest</item>
+        <item>greatest</item>
+        <item>greediest</item>
+        <item>grossest</item>
+        <item>guiltiest</item>
+        <item>hairiest</item>
+        <item>handiest</item>
+        <item>happiest</item>
+        <item>hardest</item>
+        <item>harshest</item>
+        <item>healthiest</item>
+        <item>heaviest</item>
+        <item>highest</item>
+        <item>hippest</item>
+        <item>hottest</item>
+        <item>humblest</item>
+        <item>hungriest</item>
+        <item>iciest</item>
+        <item>itchiest</item>
+        <item>juiciest</item>
+        <item>kindest</item>
+        <item>largest</item>
+        <item>latest</item>
+        <item>laziest</item>
+        <item>lightest</item>
+        <item>likeliest</item>
+        <item>littlest</item>
+        <item>liveliest</item>
+        <item>lonliest</item>
+        <item>longest</item>
+        <item>loudest</item>
+        <item>loveliest</item>
+        <item>lowest</item>
+        <item>maddest</item>
+        <item>meanest</item>
+        <item>messiest</item>
+        <item>mildest</item>
+        <item>moistest</item>
+        <item>narrowest</item>
+        <item>nastiest</item>
+        <item>naughtiest</item>
+        <item>nearest</item>
+        <item>neatest</item>
+        <item>neediest</item>
+        <item>newest</item>
+        <item>nicest</item>
+        <item>noisiest</item>
+        <item>oddest</item>
+        <item>oiliest</item>
+        <item>oldest/eldest</item>
+        <item>plainest</item>
+        <item>politest</item>
+        <item>poorest</item>
+        <item>prettiest</item>
+        <item>proudest</item>
+        <item>purest</item>
+        <item>quickest</item>
+        <item>quietest</item>
+        <item>rarest</item>
+        <item>rawest</item>
+        <item>richest</item>
+        <item>ripest</item>
+        <item>riskiest</item>
+        <item>roomiest</item>
+        <item>roughest</item>
+        <item>rudest</item>
+        <item>rustiest</item>
+        <item>saddest</item>
+        <item>safest</item>
+        <item>saltiest</item>
+        <item>sanest</item>
+        <item>scariest</item>
+        <item>shallowest</item>
+        <item>sharpest</item>
+        <item>shiniest</item>
+        <item>shortest</item>
+        <item>shyest</item>
+        <item>silliest</item>
+        <item>simplest</item>
+        <item>sincerest</item>
+        <item>skinniest</item>
+        <item>sleepiest</item>
+        <item>slimmest</item>
+        <item>slimiest</item>
+        <item>slowest</item>
+        <item>smallest</item>
+        <item>smartest</item>
+        <item>smelliest</item>
+        <item>smokiest</item>
+        <item>smoothest</item>
+        <item>softest</item>
+        <item>soonest</item>
+        <item>sorest</item>
+        <item>sorriest</item>
+        <item>sourest</item>
+        <item>spiciest</item>
+        <item>steepest</item>
+        <item>stingiest</item>
+        <item>strangest</item>
+        <item>strictest</item>
+        <item>strongest</item>
+        <item>sunniest</item>
+        <item>sweatiest</item>
+        <item>sweetest</item>
+        <item>tallest</item>
+        <item>tannest</item>
+        <item>tastiest</item>
+        <item>thickest</item>
+        <item>thinnest</item>
+        <item>thirstiest</item>
+        <item>tiniest</item>
+        <item>toughest</item>
+        <item>truest</item>
+        <item>ugliest</item>
+        <item>warmest</item>
+        <item>weakest</item>
+        <item>wealthiest</item>
+        <item>weirdest</item>
+        <item>wettest</item>
+        <item>widest</item>
+        <item>wildest</item>
+        <item>windiest</item>
+        <item>wisest</item>
+        <item>worldliest</item>
+        <item>worthiest</item>
+        <item>youngest</item>
+    </string-array>
+
+    <string-array name="adjetive_meaning">
+        <item>enfadado, enojado</item>
+        <item>malo</item>
+        <item>grande</item>
+        <item>amargo, resentido, agrio</item>
+        <item>negro</item>
+        <item>amable</item>
+        <item>sanguinario</item>
+        <item>deprimido</item>
+        <item>audaz</item>
+        <item>mandón</item>
+        <item>valiente</item>
+        <item>breve</item>
+        <item>brillante, luminoso</item>
+        <item>ancho, amplio</item>
+        <item>ocupado, ajetreado</item>
+        <item>tranquilo</item>
+        <item>barato</item>
+        <item>correoso</item>
+        <item>regordete</item>
+        <item>elegante</item>
+        <item>limpio, sano</item>
+        <item>claro, despejado</item>
+        <item>listo, ingenioso</item>
+        <item>cerca</item>
+        <item>nubiado</item>
+        <item>torpe</item>
+        <item>áspero, grosero</item>
+        <item>frío</item>
+        <item>fresco</item>
+        <item>loco</item>
+        <item>cremoso</item>
+        <item>espeluznante, repugnante</item>
+        <item>crujiente</item>
+        <item>cruel</item>
+        <item>crujiente</item>
+        <item>rizado, crespo, quebrado</item>
+        <item>curvo</item>
+        <item>mono</item>
+        <item>húmedo</item>
+        <item>oscuro, moreno</item>
+        <item>mortal, mortífero</item>
+        <item>profundo</item>
+        <item>denso</item>
+        <item>sucio</item>
+        <item>seco</item>
+        <item>aburrido, soso, tonto, romo</item>
+        <item>estúpido</item>
+        <item>polvoriento</item>
+        <item>pronto, temprano</item>
+        <item>facíl</item>
+        <item>leve, tenue, vago, ligero</item>
+        <item>claro, sereno, recto, justo</item>
+        <item>lujoso</item>
+        <item>lejos, distante</item>
+        <item>rápido</item>
+        <item>gordo</item>
+        <item>pocos</item>
+        <item>fiero, encarnizado</item>
+        <item>aaqueroso, obsceno</item>
+        <item>fino</item>
+        <item>firme, estricto</item>
+        <item>apto, en forma</item>
+        <item>desconchado</item>
+        <item>llano, liso, plano</item>
+        <item>fresco, nuevo, original</item>
+        <item>agradable, amable, amistoso</item>
+        <item>lleno, completo</item>
+        <item>gracioso, curioso, raro</item>
+        <item>tierno, afectuoso, suave</item>
+        <item>oscuro, abatido, decaído</item>
+        <item>bueno</item>
+        <item>grandioso, ambicioso, impotente</item>
+        <item>grave</item>
+        <item>grasiento</item>
+        <item>grande, genial</item>
+        <item>goloso, codicioso, ávido</item>
+        <item>asqueroso, grosero, craso</item>
+        <item>culpable</item>
+        <item>velludo, peludo</item>
+        <item>práctivo, útil, habilidoso, mañoso</item>
+        <item>feliz, contento, alegre</item>
+        <item>duro, difícil</item>
+        <item>áspero, duro</item>
+        <item>sano, saludable</item>
+        <item>pesado, grueso, fuerte, duro</item>
+        <item>alto, elevado, agudo</item>
+        <item>moderno</item>
+        <item>caliente, caluroso, picante</item>
+        <item>humilde</item>
+        <item>hambriento</item>
+        <item>helado, frío</item>
+        <item>pica</item>
+        <item>jugoso, zumoso, suculento</item>
+        <item>amable, benévolo, cariñoso</item>
+        <item>grande</item>
+        <item>tarde, restrasado, reciente</item>
+        <item>perezoso</item>
+        <item>ligero, claro</item>
+        <item>probable</item>
+        <item>pequeño, poco</item>
+        <item>animado, vivo</item>
+        <item>solitario</item>
+        <item>largo</item>
+        <item>fuerte, alto</item>
+        <item>precioso, bello, lindo</item>
+        <item>bajo</item>
+        <item>enfadado, enojado, loco</item>
+        <item>malo, mezquino, tacaño</item>
+        <item>sucio, desordenado, desastroso</item>
+        <item>afable, suave, leve</item>
+        <item>húmedo</item>
+        <item>estrecho, escaso</item>
+        <item>asqueroso, desagradable</item>
+        <item>malo, travieso, picante</item>
+        <item>cercano, próximo</item>
+        <item>ordenado, aseado, pulcro</item>
+        <item>necesitado</item>
+        <item>nuevo, fresco, reciente, moderno</item>
+        <item>simpatico, agradable, bueno</item>
+        <item>ruidoso, clamaroso</item>
+        <item>raro, extraño</item>
+        <item>grasiento, aceitoso</item>
+        <item>viejo, anciano, antiguo</item>
+        <item>claro, sencillo</item>
+        <item>educado, cortés</item>
+        <item>pobre</item>
+        <item>bonito, lindo, hermoso</item>
+        <item>orgulloso, soberbio, digno</item>
+        <item>puro</item>
+        <item>rápido</item>
+        <item>tranquillo, silencioso</item>
+        <item>raro</item>
+        <item>crudo, agrietado</item>
+        <item>rico, abundante</item>
+        <item>maduro, curado</item>
+        <item>arriesgado, peligroso</item>
+        <item>espacioso</item>
+        <item>áspero, tosco, bruto, ronco</item>
+        <item>maleducado, grosero, tosco</item>
+        <item>oxidado</item>
+        <item>triste, lamentable, penoso</item>
+        <item>seguro</item>
+        <item>salado</item>
+        <item>cuerdo, sensato</item>
+        <item>espantoso, asustadizo</item>
+        <item>superficial, poco profundo</item>
+        <item>afilado, cerrado, agudo</item>
+        <item>brillante, reluciente</item>
+        <item>corto, bajo, chaparro</item>
+        <item>tímido</item>
+        <item>tonto</item>
+        <item>sencillo, simple, facíl</item>
+        <item>sincero, genuino</item>
+        <item>flaco</item>
+        <item>adormilado, soñoliento</item>
+        <item>delgado, fino</item>
+        <item>viscoso, pegajoso, empalagoso</item>
+        <item>lento</item>
+        <item>pequeño</item>
+        <item>listo, inteligente, agudo</item>
+        <item>apestoso</item>
+        <item>humeante, ahumado</item>
+        <item>liso, suave, llano, fluido</item>
+        <item>blando, suave</item>
+        <item>pronto</item>
+        <item>dolorido</item>
+        <item>lamentable</item>
+        <item>agrio, ácido</item>
+        <item>picante, especiado, sazonado</item>
+        <item>empinado, pronunciado</item>
+        <item>tacaño, rácano, raquítico</item>
+        <item>raro, extraño, desconocido</item>
+        <item>estricto, rígido</item>
+        <item>fuerte, sólido, intenso, marcado</item>
+        <item>soleado, radiante</item>
+        <item>sudoroso</item>
+        <item>dulce</item>
+        <item>alto</item>
+        <item>bronceado, moreno</item>
+        <item>rico, sabroso, apetitoso</item>
+        <item>grueso, denso, espeso, poblado</item>
+        <item>delgado, fino</item>
+        <item>sediento</item>
+        <item>diminuto, minúsculo</item>
+        <item>fuerte, resistente, duro, difícil</item>
+        <item>cierto, verdadero, leal, fiel</item>
+        <item>feo</item>
+        <item>caliente, templado, cálido</item>
+        <item>débil, flojo</item>
+        <item>rico, pudiente</item>
+        <item>raro, extraño</item>
+        <item>mojado, húmedo, lluvioso</item>
+        <item>ancho, amplio, extenso</item>
+        <item>salvaje, silvestre, descontrolado</item>
+        <item>ventoso</item>
+        <item>sabio, sensato, prudente</item>
+        <item>mundano, terreno</item>
+        <item>virtuoso, digno</item>
+        <item>joven</item>
+    </string-array>
+</resources>

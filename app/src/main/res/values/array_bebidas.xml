@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bebidas">
+        <item>Beer</item>
+        <item>Champagne</item>
+        <item>Coffe</item>
+        <item>Hot chocolate</item>
+        <item>Juice</item>
+        <item>Lemonade</item>
+        <item>Milkshake</item>
+        <item>Slushy</item>
+        <item>Soda</item>
+        <item>Tea</item>
+        <item>Water</item>
+        <item>Wine</item>
+    </string-array>
+
+    <string-array name="bebidas_esp">
+        <item>Cerveza</item>
+        <item>Champan</item>
+        <item>Cafe</item>
+        <item>Chocolate caliente</item>
+        <item>Jugo</item>
+        <item>Limonada</item>
+        <item>Batido</item>
+        <item>Helado</item>
+        <item>Soda</item>
+        <item>Te</item>
+        <item>Agua</item>
+        <item>Vino</item>
+    </string-array>
+
+    <array name="bebidas_dibujo">
+        <item>@drawable/bebida_beer</item>
+        <item>@drawable/bebida_champagne</item>
+        <item>@drawable/bebida_coffe</item>
+        <item>@drawable/bebida_hot_chocolate</item>
+        <item>@drawable/bebida_juice</item>
+        <item>@drawable/bebida_lemonade</item>
+        <item>@drawable/bebida_milkshake</item>
+        <item>@drawable/bebida_slushy</item>
+        <item>@drawable/bebida_soda</item>
+        <item>@drawable/bebida_tea</item>
+        <item>@drawable/bebida_water</item>
+        <item>@drawable/bebida_wine</item>
+    </array>
+</resources>

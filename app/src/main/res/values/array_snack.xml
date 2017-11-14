@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="snack">
+        <item>Cake</item>
+        <item>Chocolate bar</item>
+        <item>Cookies</item>
+        <item>Crackers</item>
+        <item>Doughnut</item>
+        <item>Ice cream</item>
+        <item>Jello</item>
+        <item>Muffin</item>
+        <item>Peanuts</item>
+        <item>Pie</item>
+        <item>Popsicle</item>
+        <item>Potato chips</item>
+        <item>Pretzel</item>
+        <item>Pudding</item>
+        <item>Sundae</item>
+    </string-array>
+
+    <string-array name="snack_esp">
+        <item>Pastel</item>
+        <item>Barra de chocolate</item>
+        <item>Galletas</item>
+        <item>Galletas</item>
+        <item>Rosquillas</item>
+        <item>Helado</item>
+        <item>Gelatina</item>
+        <item>Mollete</item>
+        <item>Manies</item>
+        <item>Pastel</item>
+        <item>Paleta</item>
+        <item>Papas fritas</item>
+        <item>Galleta salada</item>
+        <item>Pudin</item>
+        <item>Helado con frutas y nueces</item>
+    </string-array>
+
+    <array name="snack_dibujo">
+        <item>@drawable/snack_cake</item>
+        <item>@drawable/snack_chocolate_bar</item>
+        <item>@drawable/snack_cookies</item>
+        <item>@drawable/snack_crackers</item>
+        <item>@drawable/snack_doughnut</item>
+        <item>@drawable/snack_ice_cream</item>
+        <item>@drawable/snack_jello</item>
+        <item>@drawable/snack_muffin</item>
+        <item>@drawable/snack_peanuts</item>
+        <item>@drawable/snack_pie</item>
+        <item>@drawable/snack_popsicle</item>
+        <item>@drawable/snack_potato_chips</item>
+        <item>@drawable/snack_pretzel</item>
+        <item>@drawable/snack_pudding</item>
+        <item>@drawable/snack_sundae</item>
+
+    </array>
+</resources>

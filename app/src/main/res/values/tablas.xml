@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabecera_tabla_adjetivos">
+        <item>Infinitive</item>
+        <item>Past Simple</item>
+        <item>Past Participle</item>
+        <item>Meaning</item>
+    </string-array>
+
+    <string-array name="cabecera_tabla_verbs">
+        <item>Adjetive</item>
+        <item>Comparative</item>
+        <item>Superlative</item>
+        <item>Meaning</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FlashCards</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="word_animal">Bear</string>
+    <string name="word_animal_esp">Oso</string>
+
+    <string name="word_verbo">Ask</string>
+    <string name="word_verbo_esp">Preguntar</string>
+    <string name="title_list_verbs">Irregular Verbs</string>
+    <string name="title_list_adjetives">Adjetives, Comparatives and Superlatives</string>
+
+    <string name="word_adjetivo1">Beautiful</string>
+    <string name="word_adjetivo1esp">Hermoso</string>
+    <string name="word_adjetivo2">Ugly</string>
+    <string name="word_adjetivo2esp">Feo</string>
+    <string name="word_tense">Present Simple</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="gmail">Gmail</string>
+    <string name="watsapp">Wattsapp</string>
+    <string name="llamame">Call me</string>
+    <string name="mensaje">Write a word or sentences</string>
+</resources>

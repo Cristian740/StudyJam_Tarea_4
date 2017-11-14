@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sentimiento">
+        <item>Angry</item>
+        <item>Cold</item>
+        <item>Happy</item>
+        <item>Hot</item>
+        <item>Hungry</item>
+        <item>In love</item>
+        <item>Sad</item>
+        <item>Shy</item>
+        <item>Sick</item>
+        <item>Sleepy</item>
+        <item>Thirsty</item>
+        <item>Tired</item>
+    </string-array>
+
+    <string-array name="sentimiento_esp">
+        <item>Enojado</item>
+        <item>Resfriado</item>
+        <item>Feliz</item>
+        <item>Acalorado</item>
+        <item>Hambriento</item>
+        <item>Enamorado</item>
+        <item>Triste</item>
+        <item>Timido</item>
+        <item>Enfermo</item>
+        <item>Soñoliento</item>
+        <item>Sediento</item>
+        <item>Cansado</item>
+    </string-array>
+
+    <array name="sentimiento_dibujo">
+        <item>@drawable/sen_angry</item>
+        <item>@drawable/sen_cold</item>
+        <item>@drawable/sen_happy</item>
+        <item>@drawable/sen_hot</item>
+        <item>@drawable/sen_hungry</item>
+        <item>@drawable/sen_in_love</item>
+        <item>@drawable/sen_sad</item>
+        <item>@drawable/sen_shy</item>
+        <item>@drawable/sen_sick</item>
+        <item>@drawable/sen_sleepy</item>
+        <item>@drawable/sen_thirsty</item>
+        <item>@drawable/sen_tired</item>
+    </array>
+</resources>

@@ -1,0 +1,38 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/alto_card1"
+    android:layout_gravity="center"
+    android:layout_marginBottom="@dimen/margen"
+    android:layout_marginLeft="@dimen/margen"
+    android:layout_marginRight="@dimen/margen"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="5dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/margen_peq"
+        android:background="@color/colorPrimaryDark">
+        <ImageView
+            android:id="@+id/song_card_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/alto_imagecard1"
+            android:layout_marginTop="@dimen/margen_peq"
+            android:src="@drawable/animal_bear" />
+        <TextView
+            android:id="@+id/song_card_title"
+            android:layout_below="@+id/song_card_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/word_tense"
+            android:textColor="@color/white"
+            android:textSize="@dimen/titulo_card_med" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

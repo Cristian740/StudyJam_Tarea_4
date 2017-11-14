@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adjetivos_1">
+        <item>Beautiful</item>
+        <item>Big</item>
+        <item>Boring</item>
+        <item>Clean</item>
+        <item>Close</item>
+        <item>Dark</item>
+        <item>Easy</item>
+        <item>Empty</item>
+        <item>Heavy</item>
+        <item>High</item>
+        <item>Long</item>
+        <item>Old</item>
+        <item>Slow</item>
+        <item>Strong</item>
+        <item>Tall</item>
+        <item>Wet</item>
+    </string-array>
+    <string-array name="adjetivos_2">
+        <item>Ugly</item>
+        <item>Small</item>
+        <item>Funny</item>
+        <item>Dirty</item>
+        <item>Far</item>
+        <item>Light</item>
+        <item>Hard</item>
+        <item>Full</item>
+        <item>Light</item>
+        <item>Low</item>
+        <item>Short</item>
+        <item>New</item>
+        <item>Fast</item>
+        <item>Weak</item>
+        <item>Short</item>
+        <item>Dry</item>
+    </string-array>
+    <string-array name="adjetivos_1es">
+        <item>Hermosa</item>
+        <item>Grande</item>
+        <item>Aburrido</item>
+        <item>Limpio</item>
+        <item>Cerca</item>
+        <item>Oscuro</item>
+        <item>Facil</item>
+        <item>Vacio</item>
+        <item>Pesado</item>
+        <item>Alto</item>
+        <item>Largo</item>
+        <item>Viejo</item>
+        <item>Lento</item>
+        <item>Fuerte</item>
+        <item>Alto</item>
+        <item>Mojado</item>
+    </string-array>
+    <string-array name="adjetivos_2es">
+        <item>Fea</item>
+        <item>Pequeño</item>
+        <item>Divertido</item>
+        <item>Sucio</item>
+        <item>Lejos</item>
+        <item>Iluminado</item>
+        <item>Dificil</item>
+        <item>Lleno</item>
+        <item>Ligero</item>
+        <item>Bajo</item>
+        <item>Corto</item>
+        <item>Nuevo</item>
+        <item>Rapido</item>
+        <item>Weak</item>
+        <item>Pequeño</item>
+        <item>Seco</item>
+    </string-array>
+    <array name="adjetivos_dibujo">
+        <item>@drawable/adjetivo_beautiful_ugly</item>
+        <item>@drawable/adjetivo_big_small</item>
+        <item>@drawable/adjetivo_boring_funny</item>
+        <item>@drawable/adjetivo_clean_dirty</item>
+        <item>@drawable/adjetivo_close_far</item>
+        <item>@drawable/adjetivo_dark_light</item>
+        <item>@drawable/adjetivo_easy_hard</item>
+        <item>@drawable/adjetivo_empty_full</item>
+        <item>@drawable/adjetivo_heavy_light</item>
+        <item>@drawable/adjetivo_high_low</item>
+        <item>@drawable/adjetivo_long_short</item>
+        <item>@drawable/adjetivo_old_new</item>
+        <item>@drawable/adjetivo_slow_fast</item>
+        <item>@drawable/adjetivo_strong_weak</item>
+        <item>@drawable/adjetivo_tall_short</item>
+        <item>@drawable/adjetivo_wet_dry</item>
+    </array>
+</resources>

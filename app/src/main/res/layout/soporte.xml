@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margen"
+    android:background="@color/light_Primary"
+    >
+<ImageView
+    android:layout_marginTop="@dimen/margen_muygran"
+    android:layout_marginBottom="@dimen/margen_muygran"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/icono_soporte"
+    android:layout_gravity="center"
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/margen"
+        >
+        <Button
+            android:id="@+id/mensaje_gmail_boton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:drawableLeft="@drawable/icono_gmail"
+            />
+        <Button
+            android:id="@+id/mensaje_telegram_boton"
+            android:onClick="mensaje_wattsapp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:drawableLeft="@drawable/icono_telegram"
+            />
+        <Button
+            android:id="@+id/mensaje_facebook_boton"
+            android:onClick="mensaje_facebook"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:drawableLeft="@drawable/icono_facebook"
+            />
+    </LinearLayout>
+    <Button
+        android:id="@+id/llamada_celular_boton"
+        android:onClick="llamada_celular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/icono_call"
+        android:text="Call me"
+        />
+</LinearLayout>

@@ -1,0 +1,60 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/alto_card"
+    android:layout_gravity="center"
+    android:layout_marginBottom="@dimen/margen"
+    android:layout_marginLeft="@dimen/margen"
+    android:layout_marginRight="@dimen/margen"
+    android:foreground="?attr/selectableItemBackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margen_peq"
+        android:background="@drawable/card1">
+
+        <ImageView
+            android:id="@+id/bebida_card_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/alto_imagecard"
+            android:layout_margin="@dimen/margen_peq"
+            android:src="@drawable/animal_bear" />
+
+        <TextView
+            android:id="@+id/bebida_card_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/bebida_card_image"
+            android:layout_marginLeft="@dimen/margen_gran"
+            android:layout_marginTop="@dimen/margen"
+            android:text="@string/word_animal"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/titulo_card" />
+
+        <TextView
+            android:id="@+id/bebida_card_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bebida_card_title"
+
+            android:layout_marginLeft="@dimen/margen_gran"
+            android:text="@string/word_animal_esp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/subtitulo_card" />
+
+        <ImageButton
+            android:id="@+id/bebida_boton_play"
+            android:layout_width="@dimen/boton_peq"
+            android:layout_height="@dimen/boton_peq"
+            android:layout_alignBottom="@+id/bebida_card_image"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/margen_gran"
+            android:layout_marginRight="@dimen/margen_gran"
+            android:background="@drawable/boton"
+            android:src="@drawable/ic_volume"
+            android:tint="@color/medium_grey" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

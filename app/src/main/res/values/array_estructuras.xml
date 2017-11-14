@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tenses_name">
+        <item>Present Simple</item>
+        <item>Past Simple</item>
+        <item>Future Simple</item>
+        <item>Present Progressive</item>
+        <item>Past Progressive</item>
+        <item>Future Progressive</item>
+        <item>Present Perfect</item>
+        <item>Past Perfect</item>
+        <item>Future Perfect</item>
+        <item>Present Perfect Continuos</item>
+        <item>Past Perfect Continuos</item>
+        <item>Future Perfect Continuos</item>
+    </string-array>
+
+    <string-array name="tense_uso">
+        <item>1. To talk about general truth and permanent actions(facts). \n 2. To talk about repeated, customary actions. \n 3. To talk about repeated customary actions.</item>
+        <item>1. To talk about actions performed in the past (with finished time expressions). \n 2. To talk about a succession of past actions (stories). \n 3. To talk about an action taking place in the middle of another action.</item>
+        <item>1. To talk about future actions. \n 2. to predict the future (with probably, I expect..., I´m sure..., (I) think..., don´t think, I wonder..., perhaps) \n 3. To express intention at the moment of decision. \n 4. In the first type of conditional sentences.</item>
+        <item>1. To talk about actions that are happening now, at the moment of speaking. \n 2. to talk about actions that are happening around now, but not exactly at the moment of speaking. \n 3. To speak about what you have already arranged to do.</item>
+        <item>1. To talk about a temporary action taking place at a given moment in the past. \n 2. Two or more actions happening at the same time in the past. \n 3. Action interrupted by another shorter action in the past. \n 4. Background information in a story:</item>
+        <item>1. To talk about an action at a particular moment in the future. The action will start before that moment but it will not have finished at that moment.</item>
+        <item>1. Is always connected with the present and the only thing which matters here is the result: the time when the action took place is of no importance. \n 2. To talk about a completed action connected with the present. \n 3. Questions in the Present Perfect never start with when. \n 4. with this morning/evening, today this week, this year (when the time periods are not finished at the time of speaking).</item>
+        <item>1. Denotes an action completed before a certain moment in the past; it is not used to denote a succession of actions (Past Simple). \n 2. with the conjunctions(Hardly/Scarcely\nearly/Barely + when…)</item>
+        <item>1. Denotes an action completed before a definite moment in the future.</item>
+        <item>1. To say how long things have been continuing up to now. \n 2. To say how we have been filling our time (up to now)</item>
+        <item>1. Denotes an action which began before a definite moment in the past, continued up to that moment and was still going on at the moment. \n 2. Denotes an action which was no longer going on at a definite moment in the past, but which had been in progress not long before:</item>
+        <item>1. Denotes an action which will begin before a definite moment in the future, will continue up to the moment and will be going on at that moment.</item>
+    </string-array>
+
+    <string-array name="tense_time">
+        <item>always, every day/month/year, never, ohten, normally, seldom, sometimes, usually, twice a week/day…, all the time</item>
+        <item>yesterday, 2 minutes/hours/days/years ago, in 1970, the other day, last month/year/week/Sunday</item>
+        <item>tomorrow, the day after tomorrow, one of these days,  next week/month/year…, soon, in the near future, some day, in two days/ five minutes/ a month…</item>
+        <item>now, at the moment, at present; Look!, Listen! These days, this morning, today</item>
+        <item>at 6 o’clock, yesterday, from 3 to 6, On Monday, when Mum came, while</item>
+        <item>at 5 o´clock tomorrow, this time on Sunday, when I come</item>
+        <item>already, ever, just, never, not yet, so far, till now, up to now, of late, lately, recently, with This is the first time…this morning/ evening, today, this week, this year</item>
+        <item>when I entered, by 5 o´clock yesterday, (with the same adverbs as Present Perfect but   in the past context); no sooner…than…</item>
+        <item>by this time tomorrow, by 2 o´clock tomorrow,when you come back</item>
+        <item>for, since; How long…?</item>
+        <item>since, for</item>
+        <item>for</item>
+    </string-array>
+
+    <string-array name="tense_ejemplo">
+        <item>The Earth rotates round its axis. \n I speak English and French \n He gets up at 8 o´clock every morning \n They never listen to their teacher.</item>
+        <item>I met my friend yesterday. \n Did you go to the seaside last summer? \n He opened the door, switched on the light and fed his cat. \n He fell asleep while the teacher was explaining new grammar rules.</item>
+        <item>I´ll call you tomorrow.\n Mary will get a present next month. \n I think it will rain tomorrow. \n Perhaps she´ll be late. \n I don´t think the exam will be very difficult. \n Do you like these shoes? - Yes, I´ll buy them. \n If the weather is fine, we’ll go to the country.</item>
+        <item>Look! The boys are playing football. Hurry up! The train is coming. \n We are studying very hard these days. \n -What are you doing on Saturday? \n - I am meeting my friend at the station. \n She is arriving at 8 pm.</item>
+        <item>What were you doing at 6 o’clock yesterday? \n She was cooking dinner and her kids were watching TV. \n I was working on computer when the telephone rang. \n The sun was shining and the birds were singing…</item>
+        <item>I will be playing tennis at 10am tomorrow. \n This time on Sunday I´ll be bathing in the sea. \n When you arrive, he will be waiting for you.</item>
+        <item>I have lost my keys. I can’t open the door. \n I have seen this film and I can discuss it with you now. \n When did you see this film? \n Have you called you mother today?</item>
+        <item>She has already finished her work when he came. \n I had hardly done it when they came. \n No sooner had they arrived than it started to rain.</item>
+        <item>She will have finished this work by 2 o’clock tomorrow. \n The film will have already started by the time we come .Hurry up!</item>
+        <item>I’ve been learning English for six years. \n It’s been raining all day. \n - Your hands are dirty. \n -I´ve been painting the walls.</item>
+        <item>We could not go out because it had been raining for two hours. \n The baby´s face was red and wet. He had been crying.</item>
+        <item>You will have been waiting for more than two hours when her plane finally arrives. \n In the fall I will have been studying here for 2 years. \n He will be tired when he arrives. He will have been travelling for 24 hours.</item>
+    </string-array>
+
+    <array name="tense_dibujo">
+        <item>@drawable/est_present_simple</item>
+        <item>@drawable/est_past_simple</item>
+        <item>@drawable/est_future_simple</item>
+        <item>@drawable/est_present_progressive</item>
+        <item>@drawable/est_past_progressive</item>
+        <item>@drawable/est_future_progressive</item>
+        <item>@drawable/est_present_perfect</item>
+        <item>@drawable/est_past_perfect</item>
+        <item>@drawable/est_future_perfect</item>
+        <item>@drawable/est_present_perfect_continuos</item>
+        <item>@drawable/est_past_perfect_continuos</item>
+        <item>@drawable/est_future_perfect_continuos</item>
+    </array>
+</resources>

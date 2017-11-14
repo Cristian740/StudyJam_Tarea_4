@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ropa">
+        <item>Boots</item>
+        <item>Coat</item>
+        <item>Dress</item>
+        <item>Gloves</item>
+        <item>Hat</item>
+        <item>High heels</item>
+        <item>Jacket</item>
+        <item>Jeans</item>
+        <item>Mittens</item>
+        <item>Overalls</item>
+        <item>Pajamas</item>
+        <item>Raincoat</item>
+        <item>Sandals</item>
+        <item>Scarf</item>
+        <item>Shirt</item>
+        <item>Shoes</item>
+        <item>Shorts</item>
+        <item>Skirt</item>
+        <item>Socks</item>
+        <item>Sport shirt</item>
+        <item>Suit</item>
+        <item>Sweat shirt</item>
+        <item>Sweat suit</item>
+        <item>Sweater</item>
+        <item>Swimsuit</item>
+        <item>T-shirt</item>
+        <item>Tie</item>
+        <item>Trainers</item>
+        <item>Trousers</item>
+        <item>Uniform</item>
+        <item>Vest</item>
+        <item>Waistcoat</item>
+    </string-array>
+
+    <string-array name="ropa_esp">
+        <item>Botas</item>
+        <item>Chaqueta</item>
+        <item>Vestido</item>
+        <item>Guantes</item>
+        <item>Sombrero</item>
+        <item>Tacones altos</item>
+        <item>Saco</item>
+        <item>Pantalones vaqueros</item>
+        <item>Guantes de boxeo</item>
+        <item>Overoles</item>
+        <item>Piyama</item>
+        <item>Gabardina</item>
+        <item>Sandalias</item>
+        <item>Bufanda</item>
+        <item>Camisa</item>
+        <item>Zapatos</item>
+        <item>Cortos</item>
+        <item>Falda</item>
+        <item>Calcetines</item>
+        <item>Camiseta deportiva</item>
+        <item>Traje</item>
+        <item>Camiseta de entrenamiento</item>
+        <item>Sudadera</item>
+        <item>Chompa</item>
+        <item>Traje de baño</item>
+        <item>Camiseta</item>
+        <item>Corbata</item>
+        <item>Zapatos de deporte</item>
+        <item>Pantalones</item>
+        <item>Uniforme</item>
+        <item>Camiseta</item>
+        <item>Chaleco</item>
+    </string-array>
+
+    <array name="ropa_dibujo">
+        <item>@drawable/ropa_boots</item>
+        <item>@drawable/ropa_coat</item>
+        <item>@drawable/ropa_dress</item>
+        <item>@drawable/ropa_gloves</item>
+        <item>@drawable/ropa_hat</item>
+        <item>@drawable/ropa_high_heels</item>
+        <item>@drawable/ropa_jacket</item>
+        <item>@drawable/ropa_jeans</item>
+        <item>@drawable/ropa_mittens</item>
+        <item>@drawable/ropa_overalls</item>
+        <item>@drawable/ropa_pajamas</item>
+        <item>@drawable/ropa_raincoat</item>
+        <item>@drawable/ropa_sandals</item>
+        <item>@drawable/ropa_scarf</item>
+        <item>@drawable/ropa_shirt</item>
+        <item>@drawable/ropa_shoes</item>
+        <item>@drawable/ropa_shorts</item>
+        <item>@drawable/ropa_skirt</item>
+        <item>@drawable/ropa_socks</item>
+        <item>@drawable/ropa_sport_shirt</item>
+        <item>@drawable/ropa_suit</item>
+        <item>@drawable/ropa_sweat_shirt</item>
+        <item>@drawable/ropa_sweat_suit</item>
+        <item>@drawable/ropa_sweater</item>
+        <item>@drawable/ropa_swimsuit</item>
+        <item>@drawable/ropa_t_shirt</item>
+        <item>@drawable/ropa_tie</item>
+        <item>@drawable/ropa_trainers</item>
+        <item>@drawable/ropa_trousers</item>
+        <item>@drawable/ropa_uniform</item>
+        <item>@drawable/ropa_vest</item>
+        <item>@drawable/ropa_waistcoat</item>
+    </array>
+</resources>

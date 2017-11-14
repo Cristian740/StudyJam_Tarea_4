@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clima">
+        <item>Clear</item>
+        <item>Cloudy</item>
+        <item>Cold</item>
+        <item>Foggy</item>
+        <item>Hailing</item>
+        <item>Hot</item>
+        <item>Partly cloudy</item>
+        <item>Raining</item>
+        <item>Snowing</item>
+        <item>Stormy</item>
+        <item>Sunny</item>
+        <item>Windy</item>
+    </string-array>
+
+    <string-array name="clima_esp">
+        <item>Claro</item>
+        <item>Nublado</item>
+        <item>Frio</item>
+        <item>Niebla</item>
+        <item>Granizo</item>
+        <item>Caluroso</item>
+        <item>Parcialmente nublado</item>
+        <item>Lluvioso</item>
+        <item>Con nieve</item>
+        <item>Tormentoso</item>
+        <item>Soleado</item>
+        <item>Ventoso</item>
+    </string-array>
+
+    <array name="clima_dibujo">
+        <item>@drawable/clima_clear</item>
+        <item>@drawable/clima_cloudy</item>
+        <item>@drawable/clima_cold</item>
+        <item>@drawable/clima_foggy</item>
+        <item>@drawable/clima_hailing</item>
+        <item>@drawable/clima_hot</item>
+        <item>@drawable/clima_partly_cloudy</item>
+        <item>@drawable/clima_raining</item>
+        <item>@drawable/clima_snowing</item>
+        <item>@drawable/clima_stormy</item>
+        <item>@drawable/clima_sunny</item>
+        <item>@drawable/clima_windy</item>
+    </array>
+</resources>

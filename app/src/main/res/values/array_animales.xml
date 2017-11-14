@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animales">
+        <item>Bear</item>
+        <item>Camel</item>
+        <item>Cat</item>
+        <item>Chicken</item>
+        <item>Chipmunk</item>
+        <item>Clam</item>
+        <item>Cow</item>
+        <item>Crab</item>
+        <item>Deer</item>
+        <item>Dog</item>
+        <item>Dolphin</item>
+        <item>Donkey</item>
+        <item>Duck</item>
+        <item>Eel</item>
+        <item>Elephant</item>
+        <item>Fish</item>
+        <item>Fox</item>
+        <item>Frog</item>
+        <item>Giraffe</item>
+        <item>Goat</item>
+        <item>Gorila</item>
+        <item>Hammerhead shark</item>
+        <item>Hipo</item>
+        <item>Horse</item>
+        <item>Jellyfish</item>
+        <item>Kangaroo</item>
+        <item>Killer whale</item>
+        <item>Koala</item>
+        <item>Lion</item>
+        <item>Lizard</item>
+        <item>Lobster</item>
+        <item>Locust</item>
+        <item>Monkey</item>
+        <item>Mouse</item>
+        <item>Octopus</item>
+        <item>Otter</item>
+        <item>Owl</item>
+        <item>Panda</item>
+        <item>Penguin</item>
+        <item>Pig</item>
+        <item>Rabbit</item>
+        <item>Raccoon</item>
+        <item>Ray fish</item>
+        <item>Rhino</item>
+        <item>Rooster</item>
+        <item>Seahorse</item>
+        <item>Sea lion</item>
+        <item>Shark</item>
+        <item>Sheep</item>
+        <item>Skunk</item>
+        <item>Snake</item>
+        <item>Squid</item>
+        <item>Squirrel</item>
+        <item>Star fish</item>
+        <item>Swordfish</item>
+        <item>Tadpole</item>
+        <item>Turtle</item>
+        <item>Whale</item>
+        <item>Wolf</item>
+        <item>Zebra</item>
+    </string-array>
+
+    <string-array name="animales_esp">
+        <item>Oso</item>
+        <item>Camello</item>
+        <item>Gato</item>
+        <item>Pollo</item>
+        <item>Ardilla</item>
+        <item>Almeja</item>
+        <item>Vaca</item>
+        <item>Cangrejo</item>
+        <item>Ciervo</item>
+        <item>Perro</item>
+        <item>Delfin</item>
+        <item>Burro</item>
+        <item>Pato</item>
+        <item>Anguila</item>
+        <item>Elefante</item>
+        <item>Pescado</item>
+        <item>Zorro</item>
+        <item>Rana</item>
+        <item>Girafa</item>
+        <item>Cabra</item>
+        <item>Gorila</item>
+        <item>Tiburon martillo</item>
+        <item>Hipopotano</item>
+        <item>Caballo</item>
+        <item>Medusa</item>
+        <item>Canguro</item>
+        <item>Ballena asesina</item>
+        <item>Koala</item>
+        <item>Leon</item>
+        <item>Lagartija</item>
+        <item>Langosta</item>
+        <item>Langosta</item>
+        <item>Mono</item>
+        <item>Raton</item>
+        <item>Pulpo</item>
+        <item>Nutria</item>
+        <item>Buho</item>
+        <item>Panda</item>
+        <item>Pinguino</item>
+        <item>Cerdo</item>
+        <item>Conejo</item>
+        <item>Mapache</item>
+        <item>Pez raya</item>
+        <item>Rinoceronte</item>
+        <item>Gallo</item>
+        <item>Caballo de mar</item>
+        <item>Leon marino</item>
+        <item>Tiburon</item>
+        <item>Oveja</item>
+        <item>Zorrillo</item>
+        <item>Serpiente</item>
+        <item>Calamar</item>
+        <item>Ardilla</item>
+        <item>Estrella de mar</item>
+        <item>Pez espada</item>
+        <item>Renacuajo</item>
+        <item>Tortuga</item>
+        <item>Ballena</item>
+        <item>Lobo</item>
+        <item>Cebra</item>
+    </string-array>
+
+    <array name="animales_dibujo">
+        <item>@drawable/animal_bear</item>
+        <item>@drawable/animal_camel</item>
+        <item>@drawable/animal_cat</item>
+        <item>@drawable/animal_chicken</item>
+        <item>@drawable/animal_chipmunk</item>
+        <item>@drawable/animal_clam</item>
+        <item>@drawable/animal_cow</item>
+        <item>@drawable/animal_crab</item>
+        <item>@drawable/animal_deer</item>
+        <item>@drawable/animal_dog</item>
+        <item>@drawable/animal_dolphin</item>
+        <item>@drawable/animal_donkey</item>
+        <item>@drawable/animal_duck</item>
+        <item>@drawable/animal_eel</item>
+        <item>@drawable/animal_elephant</item>
+        <item>@drawable/animal_fish</item>
+        <item>@drawable/animal_fox</item>
+        <item>@drawable/animal_frog</item>
+        <item>@drawable/animal_giraffe</item>
+        <item>@drawable/animal_goat</item>
+        <item>@drawable/animal_gorila</item>
+        <item>@drawable/animal_hammerhead_shark</item>
+        <item>@drawable/animal_hipo</item>
+        <item>@drawable/animal_horse</item>
+        <item>@drawable/animal_jelly_fish</item>
+        <item>@drawable/animal_kangaroo</item>
+        <item>@drawable/animal_killer_whale</item>
+        <item>@drawable/animal_koala</item>
+        <item>@drawable/animal_lion</item>
+        <item>@drawable/animal_lizard</item>
+        <item>@drawable/animal_lobster</item>
+        <item>@drawable/animal_locust</item>
+        <item>@drawable/animal_monkey</item>
+        <item>@drawable/animal_mouse</item>
+        <item>@drawable/animal_octopus</item>
+        <item>@drawable/animal_otter</item>
+        <item>@drawable/animal_owl</item>
+        <item>@drawable/animal_panda</item>
+        <item>@drawable/animal_penguin</item>
+        <item>@drawable/animal_pig</item>
+        <item>@drawable/animal_rabbit</item>
+        <item>@drawable/animal_raccoon</item>
+        <item>@drawable/animal_ray_fish</item>
+        <item>@drawable/animal_rhino</item>
+        <item>@drawable/animal_rooster</item>
+        <item>@drawable/animal_seahorse</item>
+        <item>@drawable/animal_sea_lion</item>
+        <item>@drawable/animal_shark</item>
+        <item>@drawable/animal_sheep</item>
+        <item>@drawable/animal_skunk</item>
+        <item>@drawable/animal_snake</item>
+        <item>@drawable/animal_squid</item>
+        <item>@drawable/animal_squirrel</item>
+        <item>@drawable/animal_star_fish</item>
+        <item>@drawable/animal_swordfish</item>
+        <item>@drawable/animal_tadpole</item>
+        <item>@drawable/animal_turtle</item>
+        <item>@drawable/animal_whale</item>
+        <item>@drawable/animal_wolf</item>
+        <item>@drawable/animal_zebra</item>
+
+    </array>
+</resources>

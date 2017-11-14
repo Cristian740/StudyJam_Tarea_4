@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruta">
+        <item>Apple</item>
+        <item>Bananas</item>
+        <item>Blueberries</item>
+        <item>Cherries</item>
+        <item>Grapefruit</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Lemon</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Pineapple</item>
+        <item>Plums</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+    </string-array>
+
+    <string-array name="fruta_esp">
+        <item>Manzana</item>
+        <item>Platanos</item>
+        <item>Arandanos</item>
+        <item>Guindas</item>
+        <item>Toronja</item>
+        <item>Uvas</item>
+        <item>Kiwi</item>
+        <item>Limon</item>
+        <item>Naranja</item>
+        <item>Durazno</item>
+        <item>Pera</item>
+        <item>Piña</item>
+        <item>Ciruelas</item>
+        <item>Fresas</item>
+        <item>Sandia</item>
+    </string-array>
+
+    <array name="fruta_dibujo">
+        <item>@drawable/fruta_apple</item>
+        <item>@drawable/fruta_bananas</item>
+        <item>@drawable/fruta_blueberries</item>
+        <item>@drawable/fruta_cherries</item>
+        <item>@drawable/fruta_grapefruit</item>
+        <item>@drawable/fruta_grapes</item>
+        <item>@drawable/fruta_kiwi</item>
+        <item>@drawable/fruta_lemon</item>
+        <item>@drawable/fruta_orange</item>
+        <item>@drawable/fruta_peach</item>
+        <item>@drawable/fruta_pear</item>
+        <item>@drawable/fruta_pineapple</item>
+        <item>@drawable/fruta_plums</item>
+        <item>@drawable/fruta_strawberry</item>
+        <item>@drawable/fruta_watermelon</item>
+    </array>
+</resources>
