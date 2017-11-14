@@ -26,5 +26,11 @@
     <string name="gmail">Gmail</string>
     <string name="watsapp">Wattsapp</string>
     <string name="llamame">Call me</string>
-    <string name="mensaje">Write a word or sentences</string>
+    <string name="mensaje">Escribe una palabra o una oracion</string>
+
+    <string name="acerca_de">Flash Cards es una aplicacion que permite aprender Ingles de una manera atractiva y divertida, tomando en cuenta las siguientes areas: Gramatica, Hablar, Escuchar y Vocabulario. </string>
+    <string name="about">FlashCards is a Application</string>
+    <string name="version">Version 1.0</string>
+    <string name="nombre">Flashcards</string>
+    <string name="copy">2017© All Rights Reserved</string>
 </resources>

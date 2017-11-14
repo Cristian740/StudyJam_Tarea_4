@@ -35,6 +35,23 @@
             android:hint="@string/mensaje"
             android:gravity="center"
             />
+        <TextView
+        android:id="@+id/guardado"
+        android:layout_marginTop="@dimen/margen_muygran"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/subtitulo_card"
+            android:layout_gravity="center"
+        />
+
+        <Button
+            android:id="@+id/botonguardado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last word"
+            android:textSize="10sp"
+            android:layout_gravity="center"
+            />
     </LinearLayout>
 
 

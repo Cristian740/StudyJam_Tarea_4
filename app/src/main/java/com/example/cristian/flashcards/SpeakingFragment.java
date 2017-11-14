@@ -1,6 +1,7 @@
 package com.example.cristian.flashcards;
 
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 //import android.support.v4.app.Fragment;
@@ -14,7 +15,10 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.security.PublicKey;
 import java.util.Locale;
+
+import static android.content.Context.MODE_PRIVATE;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -23,7 +27,12 @@ public class SpeakingFragment extends Fragment {
 
     TextToSpeech tts;
     EditText texto;
+    Button botonguardado;
+    TextView textoguardado;
     ImageButton boton;
+
+    SharedPreferences preferences;
+    SharedPreferences.Editor editor;
 
     @Override
     public View onCreateView(final LayoutInflater inflater, final ViewGroup container,
@@ -32,6 +41,9 @@ public class SpeakingFragment extends Fragment {
 
         ImageButton boton = (ImageButton) view.findViewById(R.id.boton_parlante);
         texto = (EditText) view.findViewById(R.id.texto_hablante);
+        textoguardado = (TextView) view.findViewById(R.id.guardado);
+        botonguardado = (Button) view.findViewById(R.id.botonguardado);
+
 
         tts = new TextToSpeech(getActivity(), new TextToSpeech.OnInitListener() {
 
@@ -50,8 +62,24 @@ public class SpeakingFragment extends Fragment {
                 Toast.makeText(getActivity(), toSpeak, Toast.LENGTH_SHORT).show();
 //                tts.speak("how are you", TextToSpeech.QUEUE_FLUSH, null);
                 tts.speak(toSpeak, TextToSpeech.QUEUE_FLUSH, null);
+
+                preferences = getActivity().getSharedPreferences("Mis preferencias",MODE_PRIVATE);
+                editor = preferences.edit();
+                editor.putString("palabra", texto.getText().toString());
+                editor.commit();
             }
         });
+
+        botonguardado.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //preferences = this.getActivity()  //getSharedPreferences("Mis preferencias", MODE_PRIVATE);
+                preferences = getActivity().getSharedPreferences("Mis preferencias",MODE_PRIVATE);
+                String valor = preferences.getString("palabra","");
+                textoguardado.setText(valor);
+            }
+        });
+
         return view;
     }
 
